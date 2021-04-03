@@ -1,4 +1,4 @@
-# ethereumjs-units
+# vaporyjs-units
 
 [![NPM Package](https://img.shields.io/npm/v/ethereumjs-units.svg?style=flat-square)](https://www.npmjs.org/package/ethereumjs-units)
 [![Build Status](https://img.shields.io/travis/ethereumjs/ethereumjs-units.svg?branch=master&style=flat-square)](https://travis-ci.org/ethereumjs/ethereumjs-units)
